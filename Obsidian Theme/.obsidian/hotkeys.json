@@ -1,0 +1,20 @@
+{
+  "bibtex-manager:create-bibtex": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "obsidian-annotator:toggle-annotation-mode": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "A"
+    }
+  ]
+}
