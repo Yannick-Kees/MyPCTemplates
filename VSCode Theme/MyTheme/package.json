@@ -1,0 +1,36 @@
+{
+	"name": "yannicks-theme",
+	"displayName": "Yannicks Theme",
+	"description": "VScode theme in Dark-Red/Yellow",
+	"publisher": "yannick",
+	"icon": "lintang/iron128.png",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Yannick-Kees/MyPCTemplates.git"
+	},
+	"keywords": [
+		"iron man",
+		"vscode"
+	],
+	"galleryBanner": {
+		"color": "#F9D38B",
+		"theme": "light"
+	},
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.34.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Yannicks Theme",
+				"uiTheme": "vs-dark",
+				"path": "./my_theme.json"
+			}
+		]
+	}
+}
